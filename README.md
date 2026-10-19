@@ -26,16 +26,16 @@ Geological engineer with **13+ years** in geosciences, natural hazards and proje
 |---|---|---|
 | [HydraXAI France](https://github.com/Asma-Iam/hydraxai-france) · [live demo](https://hydraxai-france.streamlit.app) | Explainable flood-risk map for 34,455 French municipalities: XGBoost + SHAP on soil moisture and terrain data, spatial cross-validation by department (ROC-AUC 0.72) | Python, GeoPandas, BigQuery, XGBoost, SHAP, Streamlit |
 | [Sous Nos Pieds](https://github.com/Asma-Iam/sous-nos-pieds) | Mapping and predicting the cost of natural disasters in France: 246K CatNat decrees, €66B of costs (1982-2025), drought risk projected by department up to 2036 | BigQuery, Python, ML, Looker Studio |
-| [Customer churn](https://github.com/Asma-Iam/data-analytics-predict-greenweez-churners) | Predicting repurchase probability for an e-commerce retailer and designing a retention campaign | Python, scikit-learn, BigQuery |
-| [Airline Satisfaction](https://github.com/Asma-Iam/data-analytics-airline-satisfaction) | Binary classification of ~100K passengers (satisfied vs. dissatisfied), Logistic Regression vs. Random Forest, feature importance | Python, scikit-learn |
+| [Customer churn](https://github.com/Asma-Iam/customer-churn-prediction) | Predicting repurchase probability for an e-commerce retailer and designing a retention campaign | Python, scikit-learn, BigQuery |
+| [Airline Satisfaction](https://github.com/Asma-Iam/airline-satisfaction-classification) | Binary classification of ~100K passengers (satisfied vs. dissatisfied), Logistic Regression vs. Random Forest, feature importance | Python, scikit-learn |
 
 ### Data Analysis & Analytics Engineering
 
 | Project | What it does | Stack |
 |---|---|---|
-| [dbt pipeline](https://github.com/Asma-Iam/data-analytics-marts) | Full dbt project on BigQuery: staging → intermediate → marts, tests and documentation | dbt, SQL, BigQuery |
-| [Retention matrix](https://github.com/Asma-Iam/data-analytics-matrix-retention) | Cohort analysis and retention matrix to measure the COVID-19 impact on customer retention | Python, BigQuery, Plotly |
-| [A/B testing](https://github.com/Asma-Iam/data-analytics-stats-mini-project) | Descriptive statistics and hypothesis testing on the Olist e-commerce dataset | Python, pandas |
+| [dbt pipeline](https://github.com/Asma-Iam/dbt-bigquery-analytics-pipeline) | Full dbt project on BigQuery: staging → intermediate → marts, tests and documentation | dbt, SQL, BigQuery |
+| [Retention matrix](https://github.com/Asma-Iam/cohort-retention-analysis) | Cohort analysis and retention matrix to measure the COVID-19 impact on customer retention | Python, BigQuery, Plotly |
+| [A/B testing](https://github.com/Asma-Iam/ab-testing-olist-ecommerce) | Descriptive statistics and hypothesis testing on the Olist e-commerce dataset | Python, pandas |
 
 ## What I bring
 
