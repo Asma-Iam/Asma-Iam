@@ -6,7 +6,7 @@ Geological engineer with **13+ years** in geosciences, natural hazards and proje
 
 - Based between **Paris and Lyon**, open to hybrid / remote
 - Le Wagon (French RNCP level 6 certification in AI & Big Data) + self-study in deep learning
-- [LinkedIn](https://www.linkedin.com/in/asma-ammouri) · [Portfolio](https://claude.ai/code/artifact/bb0310c3-04b4-47fd-84de-11172e12d331)
+- [LinkedIn](https://www.linkedin.com/in/asma-ammouri) · [Portfolio](https://asma-iam.github.io)
 
 ## Tech stack
 
@@ -24,7 +24,7 @@ Geological engineer with **13+ years** in geosciences, natural hazards and proje
 
 | Project | What it does | Stack |
 |---|---|---|
-| [HydraXAI France](https://github.com/Asma-Iam/hydraxai-france) · [live demo](https://hydraxai-france.streamlit.app) | Explainable flood-risk map for 34,455 French municipalities: XGBoost + SHAP on soil moisture and terrain data, spatial cross-validation by department (ROC-AUC 0.72) | Python, GeoPandas, BigQuery, XGBoost, SHAP, Streamlit |
+| [HydraXAI France](https://github.com/Asma-Iam/hydraxai-france) · [live demo](https://hydraxai-france.streamlit.app) | Explainable flood-risk map for 34,746 French municipalities: XGBoost + SHAP on soil moisture, extreme rainfall and terrain data, calibrated probabilities, spatial cross-validation by department (ROC-AUC 0.73) | Python, GeoPandas, BigQuery, XGBoost, SHAP, Streamlit |
 | [Sous Nos Pieds](https://github.com/Asma-Iam/sous-nos-pieds) | Mapping and predicting the cost of natural disasters in France: 246K CatNat decrees, €66B of costs (1982-2025), drought risk projected by department up to 2036 | BigQuery, Python, ML, Looker Studio |
 | [Customer churn](https://github.com/Asma-Iam/customer-churn-prediction) | Predicting repurchase probability for an e-commerce retailer and designing a retention campaign | Python, scikit-learn, BigQuery |
 | [Airline Satisfaction](https://github.com/Asma-Iam/airline-satisfaction-classification) | Binary classification of ~100K passengers (satisfied vs. dissatisfied), Logistic Regression vs. Random Forest, feature importance | Python, scikit-learn |
